@@ -1,0 +1,15 @@
+#img-background {
+    background-image: url(../media/connexion.jpg);
+}
+
+#size-container{
+	width: 500px;
+}
+
+.form-control {
+	width: 350px;
+}
+
+#creer {
+	font-size: small;
+}

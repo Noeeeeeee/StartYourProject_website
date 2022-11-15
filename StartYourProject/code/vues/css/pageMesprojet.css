@@ -1,0 +1,15 @@
+/*Taille des boutons projets de la page projet*/
+#sizeProjet {
+    padding: 20px;
+    width: 110%;
+    min-width: 100px;
+    min-height: 250px;
+    height: 20%;
+    /*taille border*/
+    border-width: 2px !important;
+}
+
+/*Taille combobox de tri des projets*/
+#selectTri {
+    width: 100px;
+}
